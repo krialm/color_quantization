@@ -1,12 +1,14 @@
 # Color Quantization Program
 
+<img width="796" alt="Screenshot 2023-10-07 at 22 24 44" src="https://github.com/krialm/color_quantization/assets/93251167/b24166bf-f997-47aa-b1ae-c44276119c86">
+
+
 This program allows you to perform color quantization on images in the JPEG format. Color quantization reduces the number of colors in an image while preserving its visual quality. The main features of this program include:
 
 - Load an image: You can select a JPEG image from your computer to apply color quantization.
 - Set the number of clusters: You can specify the number of color clusters to quantize the image.
 - Transform the image: Apply color quantization to the loaded image and display the result.
 - Download the result: Save the color-quantized image to your computer.
-<img width="706" alt="Screenshot 2023-10-07 at 22 25 11" src="https://github.com/krialm/color_quantization/assets/93251167/78196c98-7657-4804-a7fb-b50ae365b040">
 
 ## Usage
 

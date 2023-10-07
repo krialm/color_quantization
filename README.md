@@ -39,7 +39,7 @@ This program allows you to perform color quantization on images in the JPEG form
 
 1. Make sure you have the required dependencies installed.
 
-2. Run the program by executing the Python script `color_quantization.py`.
+2. Run the program by executing the Python script `main.py`.
 
 3. Follow the on-screen instructions to load an image, set the number of clusters, and transform the image.
 
@@ -49,10 +49,10 @@ This program allows you to perform color quantization on images in the JPEG form
 
 ## Author
 
-This program was developed by [Your Name].
+This program was developed by Artem Konotopchyk.
 
 ## License
 
-This program is open-source and available under the [License Name] license. You can find the license details in the LICENSE file.
+This program is open-source and available for all users.
 
 Feel free to modify, improve, and share this program with others. Happy color quantizing!

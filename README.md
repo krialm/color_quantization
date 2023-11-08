@@ -1,7 +1,6 @@
 # Color Quantization Program
 
-<img width="796" alt="Screenshot 2023-10-07 at 22 24 44" src="https://github.com/krialm/color_quantization/assets/93251167/b24166bf-f997-47aa-b1ae-c44276119c86">
-
+![a](https://media.licdn.com/dms/image/D4E2DAQEuBV2-T1dhQA/profile-treasury-image-shrink_1920_1920/0/1696708000765?e=1700049600&v=beta&t=a3LdfgCQneMdVHMJeudLmI9VWknc1DhdSrGQJODAPIY)
 
 This program allows you to perform color quantization on images in the JPEG format. Color quantization reduces the number of colors in an image while preserving its visual quality. The main features of this program include:
 

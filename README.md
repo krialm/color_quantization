@@ -1,6 +1,6 @@
 # Color Quantization Program
 
-![Alt text](https://media.licdn.com/dms/image/D4E2DAQEuBV2-T1dhQA/profile-treasury-image-shrink_1920_1920/0/1696708000765?e=1707652800&v=beta&t=FIJ9pCDlvi4WhZwnw4R2ObrBFf9w_yYsFjz8Lg4xk1U)
+![Alt text](Color-Quantization.jpeg)
 
 This program allows you to perform color quantization on images in the JPEG format. Color quantization reduces the number of colors in an image while preserving its visual quality. The main features of this program include:
 

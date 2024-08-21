@@ -1,6 +1,8 @@
 # Color Quantization Program
 
-![Alt text](Color-Quantization.jpeg)
+<div align="center">
+  <img src="Color-Quantization.jpeg" alt="Alt text" width="400"/>
+</div>
 
 This program allows you to perform color quantization on images in the JPEG format. Color quantization reduces the number of colors in an image while preserving its visual quality. The main features of this program include:
 
